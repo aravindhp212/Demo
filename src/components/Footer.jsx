@@ -119,19 +119,19 @@ const Footer = () => {
                     href="tel:+919159799823"
                     className="hover:text-[#f26104] transition"
                   >
-                    +91 91597 99823
+                    +91 9876543210
                   </a>
                 </p>
 
                 <p>
                   WhatsApp:{" "}
                   <a
-                    href="https://wa.me/919159799823"
+                    href="https://wa.me/917604876405"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#f26104] transition"
                   >
-                    +91 91597 99823
+                    +91 76048 76405
                   </a>
                 </p>
               </address>

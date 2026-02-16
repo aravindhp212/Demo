@@ -36,11 +36,7 @@ const Header = () => {
                 Home
               </a>
             </li>
-            <li>
-              <a href="/estimate" className="hover:text-[#f26104] transition">
-                Estimate
-              </a>
-            </li>
+           
             {/* <li>
               <a
                 href="/payment-information"
@@ -54,9 +50,14 @@ const Header = () => {
                 About Us
               </a>
             </li>
+             <li>
+              <a href="/estimate" className="hover:text-[#f26104] transition">
+                Products
+              </a>
+            </li>
             <li>
               <a href="/contact" className="hover:text-[#f26104] transition">
-                Contact
+                Contact Us
               </a>
             </li>
 
@@ -108,7 +109,7 @@ const Header = () => {
                 <a href="/">Home</a>
               </li>
               <li>
-                <a href="/estimate">Estimate</a>
+                <a href="/estimate">Products</a>
               </li>
               <li>
                 <a href="/payment-information">Payment Info</a>

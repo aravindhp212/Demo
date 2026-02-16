@@ -16,7 +16,7 @@ const FloatingButtons = () => {
     <>
       {/* WHATSAPP BUTTON */}
       <a
-        href="https://wa.me/919159799823"
+        href="https://wa.me/917604876405"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 left-5 z-50"
@@ -35,7 +35,7 @@ const FloatingButtons = () => {
         className="fixed bottom-5 right-5 z-50 bg-[#f26104] text-[#fefeff] px-6 py-3 rounded-full shadow-lg hover:scale-105 transition font-semibold"
         data-aos="fade-left"
       >
-        Estimate Now
+        BUY NOW
       </Link>
     </>
   );
